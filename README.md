@@ -33,5 +33,5 @@ The system won’t allow entry if all slots are full, and won’t open the exit 
 - Hariharan N (22BEC0965)
 
 ## Demo Video
-[Click here to watch](https://drive.google.com/file/d/1Ye1F6rvkmcXyYnLElvZshQH8VeqsdL7P/view?usp=drivesdk)
+[Click here to watch](https://drive.google.com/file/d/1Ye1F6rvkmcXyYnLElvZshQH8VeqsdL7P/view)
 
