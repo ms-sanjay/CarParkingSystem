@@ -1,4 +1,4 @@
-## 🛠️ Proteus Simulation Result
+## Proteus Simulation Result
 
 ### 1. Initial Stage
 - Both IR sensors are LOW.
