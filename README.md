@@ -22,11 +22,10 @@ The system won’t allow entry if all slots are full, and won’t open the exit 
 ## Files Included
 - `source_code.asm`: The Assembly code for the 8051 microcontroller
 - `project_report.pdf`: Complete documentation
-- `circuit_diagram.png`: Screenshot from Proteus
-- `hardware_photo.jpg`: Real photo of the working hardware
-- `demo_video_link.txt`: Link to the demonstration video
+- `Proteus_simulation`: Screenshot from Proteus
+- `demo_video_link.txt`: Link to the Hardware demonstration video
 
-## Contributors
+## Team Members
 - Sanjay M S (22BML0106)
 - Hariharasudhan V (22BEC0955)
 - Pugalarusu M (22BEC0962)
