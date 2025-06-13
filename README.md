@@ -30,7 +30,6 @@ For a complete explanation of the design, circuit, and code, you can read the fu
 - `source_code.asm`: The Assembly code for the 8051 microcontroller
 - `project_report.pdf`: Complete documentation
 - `Proteus_simulation`: Screenshot from Proteus
-- `demo_video_link.txt`: Link to the Hardware demonstration video
 
 ## Team Members
 - Sanjay M S (22BML0106)
