@@ -19,6 +19,13 @@ This project is a smart car parking system made using the 8051 microcontroller, 
 
 The system won’t allow entry if all slots are full, and won’t open the exit gate if no car is parked.
 
+## Project Documentation
+
+For a complete explanation of the design, circuit, and code, you can read the full report:
+
+[project_report (PDF)](project_report.pdf)
+
+
 ## Files Included
 - `source_code.asm`: The Assembly code for the 8051 microcontroller
 - `project_report.pdf`: Complete documentation
