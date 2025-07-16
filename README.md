@@ -31,12 +31,6 @@ For a complete explanation of the design, circuit, and code, you can read the fu
 - `project_report.pdf`: Complete documentation
 - `Proteus_simulation`: Screenshot from Proteus
 
-## Team Members
-- Sanjay M S (22BML0106)
-- Hariharasudhan V (22BEC0955)
-- Pugalarusu M (22BEC0962)
-- Hariharan N (22BEC0965)
-
 ## Demo Video
 [Click here to watch](https://drive.google.com/file/d/1Ye1F6rvkmcXyYnLElvZshQH8VeqsdL7P/view)
 
